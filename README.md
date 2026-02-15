@@ -28,5 +28,12 @@ source venv/bin/activate
 run "pip install streamlit google-genai pillow" <br>
 
 make sure to paste your API key to the corresponding section of "eleven.py" <br>
-launch the web app using "streamlit run eleven.py"
+launch the web app using "streamlit run eleven.py" <br>
+
+
+To connect on mobile: <br>
+- ensure you are on same internet as computer.
+- when run, terminal will show a "network url". Paste that into mobile browser. 
+NOTE: for some reason, mobile connectivity to this app is very iffy. It doesn't work on all wifi networks.
+ANOTHER NOTE: Images that are too large will not work. Stick to smaller ones for testing. 
 
