@@ -1,17 +1,17 @@
 # ambiguity-aware-vqa
-SURE Application 2026
+SURE Application 2026 <br>
 
-Project 11|SURE Starter Task 2026
-Adit Vuppala CoE '29
+Project 11|SURE Starter Task 2026 <br>
+Adit Vuppala CoE '29 <br>
 
-This prototype helps blind and low-vision (BLVI) users resolve visual ambiguity through a multi-turn conversational interface. 
+This prototype helps blind and low-vision (BLVI) users resolve visual ambiguity through a multi-turn conversational interface. <br>
 
-Tech Stack
+Tech Stack <br>
 - Python 3.14
 - Streamlit
 - Gemini 2.0 Flash Lite
 
-Setup Instructions:
+Setup Instructions: <br>
 1. Prerequisites <br>
 Python 3.9+: Ensure you have Python installed. <br>
 Gemini API Key: Obtain a free API key from Google AI Studio. <br>
